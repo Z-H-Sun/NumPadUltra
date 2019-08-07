@@ -16,14 +16,14 @@
 * `正常模式`（保留原始键盘布局和功能）和`小键盘模式`、`锁定模式`间可快速切换。
 
 <p align="center">
-  <img src="/Keybd.jpg" width="70%" height="70%"/>
+  <img src="/Keybd.jpg" width="50%" height="50%"/>
   <br>小键盘模式下的实际键盘布局
 </p>
 
 ## 使用方法
 下载最新版本的[单个可执行文件](https://github.com/Z-H-Sun/NumPadUltra/releases/download/v3.26/NumPadUltra.exe)至任意位置，双击运行即可。
 
-* 程序刚启动时为`小键盘模式`。默认在屏幕的左上角会出现下图所示的半透明图标，单击拖拽可改变其位置；<p align="center"><img src="/NumPadUltra/KeyboardHook/KeybdNum.ico" width="32" height="32"/></p>现在可以尝试开一个记事本，依次按下键盘上的`op[l;',./`，如果程序正常运行，实际显示的将是`123456789`
+* 程序刚启动时为`小键盘模式`。默认在屏幕的左上角会出现下图所示的半透明图标，单击拖拽可改变其位置；<p align="center"><img src="/NumPadUltra/KeyboardHook/KeybdNum.ico" width="32" height="32"/></p>现在可以尝试开一个记事本，依次按下键盘上的`op[l;',./`，如果程序正常运行，实际显示的将是`789456123`
 * 按下右Windows徽标键，或右键单击上述图标，可在`锁定模式`和`小键盘模式`之间切换；图标的颜色分别变为红色、黄色；<p align="center"><img src="/NumPadUltra/KeyboardHook/KeybdFbd.ico" width="32" height="32"/></p>在`锁定模式`下，计算机不会响应除了Windows徽标键以外的任何键盘事件
 * 按下左Windows徽标键，或左键单击上述图标，可在上述的某个模式与`正常模式`之间切换；图标的颜色分别变为红或黄色/绿色；<p align="center"><img src="/NumPadUltra/KeyboardHook/Keybd.ico" width="32" height="32"/></p>
 * 若长按Windows徽标键（长于1秒），则实现按下Windows键本身的功能，不切换模式；
